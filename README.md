@@ -128,6 +128,14 @@ See LICENSE for details.
 
 ---
 
+## Disclaimer
+
+No official endorsement is implied by usage.
+Use of this framework does not indicate approval,
+certification, or support by the Decision Mirror maintainers.
+
+---
+
 ## Acknowledgment
 
 Decision Mirror exists to ensure that
