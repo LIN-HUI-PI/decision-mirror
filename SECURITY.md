@@ -5,18 +5,18 @@
 This document defines how security, safety,
 or governance vulnerabilities should be reported.
 
------
+---
 
 ## Reporting Channels
 
 If you discover a potential risk, please contact:
 
-**Email:** security@decisionmirror.org  
+**Email:** LIN-HUI-PI@users.noreply.github.com  
 **Subject:** [Decision Mirror Security]
 
 Do not disclose publicly before review.
 
------
+---
 
 ## Scope
 
@@ -28,7 +28,7 @@ This includes:
 - Review process failures
 - Platform misuse
 
------
+---
 
 ## Response Policy
 
@@ -38,7 +38,7 @@ We aim to:
 - Assess within 14 days
 - Publish resolution summary
 
------
+---
 
 ## Non-Retaliation
 
