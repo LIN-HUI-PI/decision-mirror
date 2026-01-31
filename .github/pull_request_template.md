@@ -1,5 +1,6 @@
 # Decision Mirror — Constitutional PR
 
+
 > ⚠️ 本 PR 涉及 Decision Mirror 系統  
 > 任何修改均視為「倫理事件」，非純技術變更
 
